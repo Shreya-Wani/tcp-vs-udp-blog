@@ -1,4 +1,4 @@
-![Banner](./assets/img1.png)
+![Banner](./assets/img1.jpeg)
 
 # TCP vs UDP: The Key to Understanding Network Communication
 
@@ -8,7 +8,7 @@ Communication is the backbone of our interconnected world. Whether you're stream
 
 TCP is a connection-oriented protocol, meaning it establishes a reliable connection between sender and receiver before data transmission begins. It ensures that all packets are delivered in the correct order and without errors.
 
-![TCP Handshake](./assets/img2.png)
+![TCP Handshake](./assets/img2.jpeg)
 
 ### Key Features of TCP:
 - Reliable delivery: Guarantees delivery of data.
@@ -25,7 +25,7 @@ TCP is a connection-oriented protocol, meaning it establishes a reliable connect
 
 UDP is a connectionless protocol. It sends data without establishing a connection and does not guarantee delivery, order, or error checking. It's fast and efficient when reliability is not a top priority.
 
-![UDP Flow](./assets/img3.png)
+![UDP Flow](./assets/img3.jpeg)
 
 ### Key Features of UDP:
 - Low latency: Minimal delay in transmission.
